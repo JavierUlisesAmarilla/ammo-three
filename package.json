@@ -3,10 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "run-p type-check build-only --no-scope-hoist",
     "preview": "vite preview --port 4173",
-    "build-only": "vite build",
-    "type-check": "vue-tsc --noEmit"
+    "build": "vite build"
   },
   "dependencies": {
     "@repcomm/three.terrain": "^1.6.0",
