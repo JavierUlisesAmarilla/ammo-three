@@ -41,3 +41,6 @@ npm run dev
 ```sh
 npm run build
 ```
+### Live URL
+
+https://peptides.onrender.com
