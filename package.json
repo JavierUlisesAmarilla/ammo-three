@@ -1,6 +1,6 @@
 {
-  "name": "xlinks",
-  "version": "0.0.0",
+  "name": "peptides",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "preview": "vite preview --port 4173",

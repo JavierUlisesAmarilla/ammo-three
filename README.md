@@ -1,5 +1,5 @@
 
-https://github.com/QualityDev21/peptides/assets/106076599/c1dd2b57-cde5-42c8-9c57-6d3ac500f32a
+<https://github.com/QualityDev21/peptides/assets/106076599/c1dd2b57-cde5-42c8-9c57-6d3ac500f32a>
 
 # Peptides
 
@@ -41,6 +41,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
 ### Live URL
 
-https://peptides.onrender.com
+<https://peptides.onrender.com>
